@@ -1,6 +1,6 @@
 # v2ray
 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本
-
+备份复制的233blog大佬的，万分感谢
 
 为了避免由于不可抗拒的原因所造成本人主动删除脚本，所以建议请将本脚本 Fork 一份
 备份地址： https://github.com/233boy/v2ray/fork
