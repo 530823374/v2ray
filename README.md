@@ -13,8 +13,9 @@ chmod +x install.sh
 
 如果提示 curl: command not found ，那是因为你的小鸡没装 Curl
 ubuntu/debian 系统安装 Curl 方法: apt-get update -y && apt-get install curl -y
-centos 系统安装 Curl 方法: yum update -y && yum install curl -y
+centos 系统安装 Curlcentos 系统安装 方法: yum update -y && yum install curl -y
 安装好 curl 之后就能安装脚本了
 
 如果提示-bash: git: command not found,那是因为你的小鸡没装git
-sudo apt-get install git
+ubuntu/debian 系统安装git方法 sudo apt-get install git
+centos 系统安装git方法 yum install git -y 或 yum install -y git
