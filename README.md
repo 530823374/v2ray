@@ -15,3 +15,6 @@ chmod +x install.sh
 ubuntu/debian 系统安装 Curl 方法: apt-get update -y && apt-get install curl -y
 centos 系统安装 Curl 方法: yum update -y && yum install curl -y
 安装好 curl 之后就能安装脚本了
+
+如果提示-bash: git: command not found,那是因为你的小鸡没装git
+sudo apt-get install git
